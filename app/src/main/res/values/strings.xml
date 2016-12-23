@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ResultsPage</string>
+    <string name="post_button">Submit Post</string>
+    <string name="post_description_hint">Post Description</string>
+    <string name="add_post_image">Add post image</string>
+    <string name="postimagedescr">postImage</string>
+    <string name="post_description_goes_here">Post Description Goes Here</string>
+    <string name="post_title_goes_here">Post Title Goes Here</string>
+</resources>
